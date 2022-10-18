@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh42447&layout=compact&show_icons=true&theme=radical)
   
 ## Blog
-<a href="https://kjh42447.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
+<a href="https://kjh42447.tistory.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
